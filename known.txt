@@ -1,0 +1,36 @@
+com.zhiliaoapp.musically|TikTok
+com.ss.android.ugc.trill|TikTok
+com.zhiliaoapp.musically.go|TikTok Lite
+com.ss.android.ugc.aweme.lite|TikTok Lite
+com.instagram.android|Instagram
+com.instagram.lite|Instagram Lite
+com.whatsapp|WhatsApp
+com.whatsapp.w4b|WhatsApp Business
+com.google.android.youtube|YouTube
+com.facebook.katana|Facebook
+com.facebook.lite|Facebook Lite
+com.facebook.orca|Messenger
+org.telegram.messenger|Telegram
+com.twitter.android|X (Twitter)
+com.spotify.music|Spotify
+com.netflix.mediaclient|Netflix
+com.google.android.apps.maps|Google Maps
+com.android.chrome|Chrome
+com.discord|Discord
+com.shopee.id|Shopee
+com.tokopedia.tkpd|Tokopedia
+com.gojek.app|Gojek
+com.grabtaxi.passenger|Grab
+com.moonton.mobilelegends|Mobile Legends
+com.dts.freefireth|Free Fire
+com.dts.freefiremax|Free Fire MAX
+com.tencent.ig|PUBG Mobile
+com.miHoYo.GenshinImpact|Genshin Impact
+com.mobile.legends|Mobile Legends
+com.snapchat.android|Snapchat
+com.google.android.apps.youtube.music|YouTube Music
+com.zoom.us|Zoom
+us.zoom.videomeetings|Zoom
+com.google.android.apps.meetings|Google Meet
+id.dana|DANA
+com.gojek.gopay|GoPay

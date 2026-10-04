@@ -1,0 +1,9 @@
+# Zip hanya untuk GitHub Releases, bukan di repo
+*.zip
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.swp

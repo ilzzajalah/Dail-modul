@@ -1,0 +1,7 @@
+id=dail_modul
+name=Dail Modul
+version=v1.7
+versionCode=8
+author=ilzzajalah
+description=Network tuning, tes jaringan, deteksi app daily, boost & battery saver per-app, bersihkan RAM, TRIM storage. WebUI, anti-bootloop, ringan. Android 10+
+updateJson=https://raw.githubusercontent.com/ilzzajalah/Dail-modul/main/update.json
